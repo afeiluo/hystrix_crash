@@ -10,13 +10,11 @@
         <version>2.5.14</version>
     </parent>
 
-
     <groupId>com.afeiluo</groupId>
     <artifactId>crash</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>crash</name>
     <description>Demo project for feign hystrix crash</description>
-
 
     <properties>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
